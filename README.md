@@ -14,7 +14,7 @@ Esta é uma biblioteca de processamento de dados geográficos do Brasil. Ela foi
 
 ### 📂 Estrutura de Arquivos
 
-* **`/modulo`**: O coração do projeto! ❤️
+* **`/modulo`**: O coração do projeto! 
     * `estados.js`: Contém o JSON massivo com todos os dados.
     * `funcoes.js`: Contém a inteligência da API (os filtros).
 
@@ -49,7 +49,7 @@ const resultado = getEstadosRegiao(estadosCidades, 'Sudeste');
 
 console.log(resultado);
 🌈 Visualizando o Retorno (JSON)
-Quando você busca por uma região, a mágica acontece assim: ✨
+Quando você busca por uma região, acontece assim: ✨
 
 JSON
 {
