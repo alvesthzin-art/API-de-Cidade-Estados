@@ -49,7 +49,7 @@ const resultado = getEstadosRegiao(estadosCidades, 'Sudeste');
 
 console.log(resultado);
 🌈 Visualizando o Retorno (JSON)
-Quando você busca por uma região, acontece assim: ✨
+Quando você busca por uma região, a mágica acontece assim: ✨
 
 JSON
 {
@@ -60,12 +60,15 @@ JSON
     { "uf": "SC", "descricao": "Santa Catarina" }
   ]
 }
+
+```
+
 👨‍💻 Desenvolvedor
 <table style="border: none;">
 <tr>
 <td align="center">
-<a href="https://www.google.com/search?q=https://github.com/alvesthzin-art">
-<img src="https://www.google.com/search?q=https://github.com/alvesthzin-art.png" width="100px;" alt="Avatar"/><br />
+<a href="#">
+<img src="https://github.com/alvesthzin-art.png" width="100px;" alt="Avatar"/><br />
 <sub><b>@alvesthzin-art</b></sub>
 </a>
 </td>
